@@ -183,3 +183,5 @@ revenus (`#4fd8a4`), corail pour les dépenses (`#ff8078`). Typographies
 Alertes par email, transactions récurrentes, objectifs d'épargne, import CSV,
 multi-devises, conteneurisation Docker (séance 6) et tests automatisés en
 intégration continue.
+#   F i n o r a _ S O A  
+ 
